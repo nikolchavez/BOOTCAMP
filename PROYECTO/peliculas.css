@@ -1,0 +1,48 @@
+body{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image:url("https://fondosmil.com/fondo/54336.png");
+}
+.container{
+
+    background-color: rgb(173, 105, 236);
+    width: 500px;
+    height: 300px;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 10px 10px 10px rgb(237, 218, 145);
+}
+.card{
+
+    background-color: rgb(101, 148, 186);
+    height: 300px;
+ 
+}
+.pregunta_nombre{
+    text-align: center;
+    font-size: 25px;
+}
+.pregunta_contenido{
+
+    text-align: center;
+}
+.pregunta_anunciado{
+
+    background-color: rgb(109, 152, 226);  
+    height: 150px;
+  }
+  
+  .pregunta_alternativas{
+  
+      background-color: rgb(113, 97, 217);
+      height: 200px;
+      line-height: 1.2px;
+}
+  button{
+    width: 200px;
+    font-size:10px;
+    margin:5px auto ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

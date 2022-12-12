@@ -1,0 +1,43 @@
+body{
+
+    font-family: sans-serif ;
+    background-image: url("https://w0.peakpx.com/wallpaper/851/116/HD-wallpaper-aesthetic-color-rosa-corazon-corazones-de-cielos-de-la-luna-de-las-estrellas-de-las-nubes-de-nubes-fondo-de-pantalla.jpg");
+}
+ul{
+
+    outline:2px  rgb(101, 204, 101);
+    outline-style: solid ;
+    list-style:none ;
+    margin: 0;
+    padding-left: 0;
+    width: 160px;
+    line-height: 24px;
+}
+a{
+
+text-decoration: none;
+color: black; 
+padding-left: 6px;
+display: block;
+}
+a:hover{
+
+    background-color:rgb(89, 85, 85) ;
+}
+a:active{
+
+    background-color: black;
+    color:wheat
+}
+ul li :first-child a{
+
+    color:white
+}
+ul li :first-child a{
+
+    background-color: rgb(101, 233, 127);
+}
+ul li :first-child a :hover{
+
+    color:black
+}

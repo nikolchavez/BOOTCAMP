@@ -1,0 +1,53 @@
+body{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(154, 239, 211);
+}
+
+.container{
+
+    background-color: rgb(234, 150, 119);
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 10px 10px 10px rgb(237, 218, 145);
+}
+
+.card{
+
+   background-color: rgb(101, 186, 104);
+   height: 400px;
+
+}
+
+.pregunta_nombre{
+    text-align: center;
+    font-size: 25px;
+}
+.pregunta_contenido{
+
+    text-align: center;
+}
+
+.pregunta_anunciado{
+
+  background-color: rgb(109, 152, 226);  
+  height: 150px;
+}
+
+.pregunta_alternativas{
+
+    background-color: rgb(181, 98, 229);
+    height: 200px;
+    line-height: 1.2px;
+}
+
+button{
+    width: 200px;
+    font-size:15px;
+    margin:5px auto ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
